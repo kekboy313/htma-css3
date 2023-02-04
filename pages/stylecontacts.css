@@ -1,0 +1,33 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    background: url('https://fond42.ru/local/templates/axi/img/company/contacts.jpg') bottom no-repeat;
+    background-size: cover;
+}
+.copyright{
+    color: rgb(108, 117, 125);
+    font-family: 'Times New Roman', Times, serif;
+}
+.contacts{
+    text-align: center;
+}
+.colour{
+    background-color: gray;
+}
+footer{
+    padding-top: 20px;
+    padding-bottom: 60px;
+    text-align: center;
+}
+footer .foot >a {
+    color: black;
+    padding: 0 40px;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
